@@ -1,0 +1,78 @@
+{
+    "name": "ParallelDots",
+    "description": "<p>ParallelDots is one of the best applied AI research groups in the world. We work with enterprises globally to tackle challenging business problems and create the winners of tomorrow. We also provide AI consulting services to explore the \"what, why, how and who\"\u200b about deploying AI in businesses.&nbsp; Try-out our cutting edge text analysis APIs and join the community of 1,000+ global users. Contact us at contact@paralleldots.com and tell us about the challenging business problems that you are facing.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/paralleldots-logo.png",
+    "tags": [
+        "have api",
+        "machine learning",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paralleldots\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ParallelDots AI APIs Docs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/paralleldots-logo.png",
+            "humanURL": "https:\/\/www.paralleldots.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paralleldots-ai-apis-docs-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/paralleldots-ai-apis-docs.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.paralleldots.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.paralleldots.com\/ai-apis"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/docs.paralleldots.com\/"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/www.paralleldots.com\/frequently-asked-questions"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ParallelDots"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/3572541\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.paralleldots.com\/pricing"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.paralleldots.com\/terms-and-conditions"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ParallelDots"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.paralleldots.com\/"
+        }
+    ]
+}
